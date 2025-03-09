@@ -4,3 +4,4 @@
 |--|:--|
 |김준성|	팀장  P/M, Back-end|
 |나상현|	팀원  Front-end|
+|신준영|	팀원  Front-end|
